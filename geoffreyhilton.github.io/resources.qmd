@@ -1,0 +1,15 @@
+---
+title: "Resources"
+---
+
+### Economics
+
+* 
+
+### Mathematics
+
+* Dover Publications reprints high quality math textbooks and sells them at extremely competitive prices. They are often available on Amazon.
+
+* Jay Cummings has written and published two excellent textbooks on Proofs and Real Analysis that he sells at cost.
+
+### Coding

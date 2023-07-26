@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Geoffrey Hilton"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
