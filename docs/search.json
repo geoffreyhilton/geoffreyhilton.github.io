@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Geoffrey Hilton",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD student in economics at HEC Lausanne. My research interests are in political economy, game theory, and information.\n\nEducation\nUniversity of Lausanne | Lausanne, Switzerland\nPhD in Economics | 2023 - Present\nIHEID | Geneva, Switzerland\nMA in International Economics | 2021 - 2023\nCUHK-Shenzhen | Shenzhen, China\nBBA in Applied Economics | 2017 - 2021"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Peer-reviewed Publications\nComing soon (hopefully)\n\n\nUnder Review\nComing soon\n\n\nWorking Papers\nComing soon\n\n\nIn Progress\nNatural Resource Trade Routes and Conflict\nCompetition, Predation, and Conflict\nWhy do People Vote for Autocrats?"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Geoffrey Hilton",
+    "section": "Education",
+    "text": "Education\nUniversity of Lausanne | Lausanne, Switzerland\nPhD in Economics | Beginning Sept 2023\nIHEID | Geneva, Switzerland\nMA in International Economics | 2021 - 2023\nCUHK-Shenzhen | Shenzhen, China\nBBA in Applied Economics | 2017 - 2021"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant\nFall 2023 - Statistics and Econometrics I - UNIL"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Economics\n\n\n\n\n\nMathematics\n\nDover Publications reprints high quality math textbooks and sells them at extremely competitive prices. They are often available on Amazon.\nJay Cummings has written and published two excellent textbooks on Proofs and Real Analysis that he sells at cost.\n\n\n\nCoding"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact and CV",
+    "section": "",
+    "text": "Email: geoffrey.hilton@unil.ch\nClick here to download my full CV"
+  },
+  {
+    "objectID": "docs/resources.html",
+    "href": "docs/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Economics\n\n\nMathematics\n\n\nCoding"
   }
 ]

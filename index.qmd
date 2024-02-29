@@ -1,11 +1,19 @@
 ---
 title: "Geoffrey Hilton"
+image: mypic.jpg
+about: 
+  template: broadside
 ---
 
-This is a Quarto website.
+I am a PhD student in economics at HEC Lausanne. My research interests are in political economy, game theory, and information.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Education
 
-```{r}
-1 + 1
-```
+<span style="color:black;">University of Lausanne</span> | Lausanne, Switzerland \
+PhD in Economics | 2023 - Present
+
+<span style="color:black;">IHEID</span> | Geneva, Switzerland \
+MA in International Economics | 2021 - 2023
+
+<span style="color:black;">CUHK-Shenzhen</span> | Shenzhen, China \
+BBA in Applied Economics | 2017 - 2021
